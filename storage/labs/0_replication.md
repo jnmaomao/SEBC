@@ -170,7 +170,7 @@ org.apache.hadoop.net.ConnectTimeoutException: 60000 millis timeout while waitin
   ```
   2.Let the other use BDR
   ```
-  I will take a snapshot by name replication_hdfs_BDR.png
+  I take a snapshot by name replication_hdfs_BDR.png
   ```
 
 
