@@ -110,7 +110,7 @@ INFO  : OK
 4 rows selected (0.324 seconds)
 ```
 
-# ferdinand as george, login to beeline, and use SHOW TABLES;
+# kinit as george, login to beeline, and use SHOW TABLES;
 ```
 [root@masternode ~]# kinit ferdinand
 Password for ferdinand@JNMAOMAO.CN: 
